@@ -1,0 +1,9 @@
+{
+	"name": "RonyADFDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5586d07d-071c-4925-880c-9a048efb5e0f",
+		"tenantId": "8a8debac-b3be-432f-b15d-9fc1f5cd3d13"
+	}
+}
